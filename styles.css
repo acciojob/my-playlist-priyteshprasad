@@ -9,7 +9,13 @@ div{
 body{
 	background-color: rgb(204, 204, 204);
 }
-.player_one, player_two{
+.player_one{
+	background-color: rgb(255, 255, 255); 
+	padding: 10px; 
+	border-radius: 10px;
+}
+
+.player_two{
 	background-color: rgb(255, 255, 255); 
 	padding: 10px; 
 	border-radius: 10px;
